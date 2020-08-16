@@ -85,7 +85,7 @@ ro de procesos */
   add_element_to_population(&population, new_Element(815, 9.679e-1*au, -2.82e-1*au, 1.711e-4*au, 6.683e-3*au, 2.202e-2*au, 4.219e-4*au));  // Voyager 1 
   add_element_to_population(&population, new_Element(1.989e30, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0));  // Sol
   add_element_to_population(&population, new_Element(5.972e24, 9.669e-1*au, -2.844e-1*au, -6.609e-6*au, 4.582e-3*au, 1.643e-2*au, 1.118e-6*(au)));  // Tierra
-  add_element_to_population(&population, new_Element(6.41e23, 8.799e-01*au, 1.19*au, 3.265e-3*au, -1.071e-2*au, 9.504e-3*(au), 4.63e-4*(au)));  // Marte
+  add_element_to_population(&population, new_Element(6.418e23, 8.799e-01*au, 1.19*au, 3.265e-3*au, -1.071e-2*au, 9.504e-3*(au), 4.63e-4*(au)));  // Marte
   add_element_to_population(&population, new_Element(1.898e24, 6.999e-1*au, 5.049*au, -3.644e-2*au, -7.571e-3*au, 1.388e-3*au, 1.638e-4*(au)));  // Jupiter
   add_element_to_population(&population, new_Element(5.683e26, -7.193*au, 5.707*au, 1.86e-1*au, -3.774e-3*au, -4.386e-3*au, 2.268e-4*au));  // Saturno
 

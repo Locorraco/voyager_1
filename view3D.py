@@ -2,6 +2,7 @@
 
 import imageio
 import os
+import shutil
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
@@ -15,8 +16,8 @@ access_rights = 0o777
 try:
     os.mkdir('data', access_rights)
 except FileExistsError:
-    # directory already exists
-    pass
+    shutil.rmtree('data')
+    os.mkdir('data', access_rights)
 
 ccolor=['k','r','g']
 

@@ -1,5 +1,5 @@
 /*
-    nbody
+    voyager
     Copyright (C) 2020 Bruce Hiram Ginori Rodríguez
                        bruginrod@gmail.com
 

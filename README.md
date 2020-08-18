@@ -16,7 +16,7 @@ Recreation of the Voyager 1 probe path in an n-body system.
 
 ## Compilation and execution
 
-1.- Download or clone this git in the machine you are gonna be working.
+1.- Download or clone this git in the machine you are going to be working.
 
 2.- This project needs to be compiled. Open a terminal in the folder that contains the GNUMakefile file to run it and compile with the ***$ make*** command. This will generate the ***voyager*** executable to run. (The name can be changed inside the file GNUMakefile in the variable ***PROGRAM***
 
